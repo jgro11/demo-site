@@ -1,0 +1,16 @@
+html{
+	background: lightblue;
+}
+
+.aboutPage{
+	background: salmon;
+}
+
+.portfolioPage{
+	background: magenta;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+}
